@@ -12,28 +12,28 @@ nav,footer {
 }
 
 .navbar-brand {
-    width: 132px;
-    height: 53px;
+    width: 8.25rem;
+    height: 4.3125rem;
 }
 
 h1 {
     color: #707070;
-    font-size: 60px;
+    font-size: 3.75rem;
     font-weight: 700;
 }
 
 .icons-section {
    
-    height: 170px;
+    height: 10.625rem;
 }
 
 i {
-    font-size: 60px;
+    font-size: 3.75rem;
 }
 
 h2 {
     color: #ffffff;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 700;
 }
 
@@ -43,6 +43,6 @@ footer {
 }
 
 footer img {
-    width: 53px;
-    height: 100px;
+    width: 3.3125rem;
+    height: 6.25rem;
 }
